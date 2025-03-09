@@ -1,9 +1,8 @@
 👋 Hey there, I'm Hassan Mahmood!  
-🌱 Data Science Explorer  | Problem Solver | Lifelong Learner 
-
-🚀 I enjoy transforming ideas into reality through code, logic, and data-driven insights.  
-📚 Currently exploring Data Science  
+🌱 **Data Science Explorer | Problem Solver | Lifelong Learner** 🚀  
+💻 I enjoy transforming ideas into reality through code, logic, and data.  
 💡 Always curious to learn and improve every single day.  
+📚 Currently exploring **Data Science**.  
 
  🔧 Skills  
 - 🖥️ C++  
