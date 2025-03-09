@@ -7,15 +7,19 @@
 
  🔧 Skills  
 - 🖥️ C++  
-- 🐍 Python  
-- 🗣️ Communication
+- 🐍 Python
+- 📜 JavaScript 
 - 📊 Statistics
+- 🗣️ Communication
+- 🔗 My Social Media Profiles: [Click Here](https://linktr.ee/Hs30)
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Statistics](https://img.shields.io/badge/Statistics-007ACC?style=for-the-badge&logo=statista&logoColor=white)  
 ![Communication](https://img.shields.io/badge/Communication-FFD700?style=for-the-badge&logo=wechat&logoColor=white)  
 
-- 🔗 My Social Media Profiles: [Click Here](https://linktr.ee/Hs30) 
+ 
 <!---
 Hasan-Mahmood231/Hasan-Mahmood231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
