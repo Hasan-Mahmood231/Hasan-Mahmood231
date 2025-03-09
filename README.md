@@ -1,7 +1,7 @@
 👋 Hey there, I'm Hassan Mahmood!  
 🌱 Data Science Explorer  | Problem Solver | Lifelong Learner 
 
-🚀 Passionate about coding, algorithms, and building impactful projects.  
+🚀 I enjoy transforming ideas into reality through code, logic, and data-driven insights.  
 📚 Currently exploring Data Science  
 💡 Always curious to learn and improve every single day.  
 
