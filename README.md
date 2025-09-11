@@ -1,17 +1,15 @@
+
+
 Hi, I’m Hassan Mahmood
 
 🌱 Data Science & AI Enthusiast | Problem Solver | Lifelong Learner
-
 I’m passionate about using data, algorithms, and AI to uncover insights and build intelligent solutions. My journey is focused on strengthening fundamentals in Python, Data Analysis, and Machine Learning, while continuously improving through practice and real-world projects.
 
 What I Do
 
-🔹 Explore Data Science & Artificial Intelligence concepts step by step
-
-🔹 Build and share clean, well-documented projects for learning & collaboration
-
-🔹 Apply statistics, algorithms, and data visualization to solve problems
-
+🔹 Explore Data Science & Artificial Intelligence concepts step by step<br>
+🔹 Build and share clean, well-documented projects for learning & collaboration<br>
+🔹 Apply statistics, algorithms, and data visualization to solve problems<br>
 🔹 Experiment with machine learning models to understand how AI learns from data
 
  🔧 Skills  
