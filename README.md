@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="./header.svg" alt="Animated header" />
+  <img src="https://raw.githubusercontent.com/Hasan-Mahmood231/Hasan-Mahmood231/main/header.svg" alt="Animated header" />
 </p>
+
 
 Hi, I’m Hassan Mahmood
 
-🌱 Data Science & AI Enthusiast | Problem Solver | Lifelong Learner
+
 I’m passionate about using data, algorithms, and AI to uncover insights and build intelligent solutions. My journey is focused on strengthening fundamentals in Python, Data Analysis, and Machine Learning, while continuously improving through practice and real-world projects.
 
 What I Do
