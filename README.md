@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./header.svg" alt="Animated header" />
+</p>
 
 Hi, I’m Hassan Mahmood
 
