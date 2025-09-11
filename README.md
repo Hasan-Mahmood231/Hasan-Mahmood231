@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hasan-Mahmood231/Hasan-Mahmood231/main/header.svg" alt="Animated header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=34&duration=3000&pause=1000&color=008B8B&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Hassan+Mahmood;🎓+Software+Engineering+Student;🔍+Exploring+Data;🤖+Machine+Learning;🧠+Artificial+Intelligence" alt="Typing SVG" />
 </p>
+
+
 
 
 
