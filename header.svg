@@ -1,53 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-label="Animated header">
   <defs>
-    <!-- Gradient for title -->
-    <linearGradient id="gradient" x1="0" x2="1">
+    <!-- Title gradient (pink/orange) -->
+    <linearGradient id="gradientTitle" x1="0" x2="1">
       <stop offset="0%" stop-color="#ff416c"/>
       <stop offset="50%" stop-color="#ff4b2b"/>
       <stop offset="100%" stop-color="#ff416c"/>
     </linearGradient>
 
-    <!-- Gradient for subtitle -->
-    <linearGradient id="subgradient" x1="0" x2="1">
+    <!-- Subtitle gradient (blue) -->
+    <linearGradient id="gradientSub" x1="0" x2="1">
       <stop offset="0%" stop-color="#00b4d8"/>
       <stop offset="50%" stop-color="#90e0ef"/>
       <stop offset="100%" stop-color="#00b4d8"/>
     </linearGradient>
 
-    <!-- Styles -->
     <style><![CDATA[
-      .title { font: 700 34px Arial, sans-serif; fill: url(#gradient); }
-      .sub { font: 400 16px Arial, sans-serif; fill: url(#subgradient); }
+      .title { font: 700 40px Arial, sans-serif; fill: url(#gradientTitle); }
+      .sub   { font: 400 18px Arial, sans-serif; fill: url(#gradientSub); }
     ]]></style>
 
-    <!-- Typing animation (looping) -->
-    <clipPath id="type">
+    <!-- Typing clip for title: type -> hold -> erase (loop) -->
+    <clipPath id="clipTitle">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" values="0;900;0" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="width"
+                 values="0;980;980;0"
+                 keyTimes="0;0.55;0.85;1"
+                 dur="5s"
+                 repeatCount="indefinite"/>
       </rect>
     </clipPath>
 
-    <!-- Typing animation for subtitle (looping) -->
-    <clipPath id="typesub">
-      <rect x="0" y="0" width="0" height="30">
-        <animate attributeName="width" values="0;950;0" dur="8s" repeatCount="indefinite"/>
+    <!-- Typing clip for subtitle (starts a bit after title) -->
+    <clipPath id="clipSub">
+      <rect x="0" y="0" width="0" height="40">
+        <animate attributeName="width"
+                 values="0;980;980;0"
+                 keyTimes="0;0.6;0.9;1"
+                 dur="6.5s"
+                 begin="0.6s"
+                 repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
 
-  <!-- Transparent background -->
   <rect width="100%" height="100%" fill="transparent"/>
 
   <g transform="translate(40,50)">
-    <!-- Title -->
-    <text class="title" x="0" y="28" clip-path="url(#type)">Hello, I'm Hassan Mahmood</text>
+    <!-- Title (typing) -->
+    <text class="title" x="0" y="36" clip-path="url(#clipTitle)">Hello, I'm Hassan Mahmood</text>
 
-    <!-- Subtitle -->
-    <text class="sub" x="0" y="70" clip-path="url(#typesub)">🎓 Software Engineering Student | Exploring Data | Machine Learning | Artificial Intelligence</text>
+    <!-- Subtitle (typing; note: & is not used here so no XML issue) -->
+    <text class="sub" x="0" y="76" clip-path="url(#clipSub)">
+      🎓 Software Engineering Student | Exploring Data | Machine Learning | Artificial Intelligence
+    </text>
 
-    <!-- Cursor for title -->
-    <rect x="880" y="6" width="8" height="34" fill="#0f172a">
+    <!-- Cursor (blinking) placed near right — it blinks continuously -->
+    <rect x="990" y="6" width="8" height="44" rx="1" fill="#0f172a">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
