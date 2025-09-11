@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Hasan-Mahmood231&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<!-- ----------------------------snak -->
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Hasan-Mahmood231/Hasan-Mahmood231/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p> -->
 
 
 Hi, I’m Hassan Mahmood
