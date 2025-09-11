@@ -3,7 +3,9 @@
 </p>
 
 
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hasan-Mahmood231&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 Hi, I’m Hassan Mahmood
