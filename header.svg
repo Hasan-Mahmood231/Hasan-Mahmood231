@@ -1,37 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="140" viewBox="0 0 900 140">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="160" viewBox="0 0 1000 160">
   <defs>
-    <!-- Gradient color for title -->
+    <!-- Gradient for title -->
     <linearGradient id="gradient" x1="0" x2="1">
       <stop offset="0%" stop-color="#ff416c"/>
       <stop offset="50%" stop-color="#ff4b2b"/>
       <stop offset="100%" stop-color="#ff416c"/>
     </linearGradient>
 
+    <!-- Gradient for subtitle -->
+    <linearGradient id="subgradient" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00b4d8"/>
+      <stop offset="50%" stop-color="#90e0ef"/>
+      <stop offset="100%" stop-color="#00b4d8"/>
+    </linearGradient>
+
     <!-- Styles -->
     <style><![CDATA[
-      .title { font: 700 32px Arial, sans-serif; fill: url(#gradient); }
-      .sub { font: 400 14px Arial, sans-serif; fill: #6b7280; }
+      .title { font: 700 34px Arial, sans-serif; fill: url(#gradient); }
+      .sub { font: 400 16px Arial, sans-serif; fill: url(#subgradient); }
     ]]></style>
 
-    <!-- Typing animation -->
+    <!-- Typing animation (looping) -->
     <clipPath id="type">
       <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" from="0" to="820" dur="3s" begin="0s" fill="freeze"/>
+        <animate attributeName="width" values="0;900;0" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <!-- Typing animation for subtitle (looping) -->
+    <clipPath id="typesub">
+      <rect x="0" y="0" width="0" height="30">
+        <animate attributeName="width" values="0;950;0" dur="8s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
 
-  <!-- Main group -->
-  <g transform="translate(40,40)">
-    <!-- Title with typing -->
+  <!-- Transparent background -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <g transform="translate(40,50)">
+    <!-- Title -->
     <text class="title" x="0" y="28" clip-path="url(#type)">Hello, I'm Hassan Mahmood</text>
 
-    <!-- Subtitle (fixed with &amp;) -->
-    <text class="sub" x="0" y="58">🌱 Data Science &amp; AI Enthusiast | Problem Solver | Lifelong Learner</text>
+    <!-- Subtitle -->
+    <text class="sub" x="0" y="70" clip-path="url(#typesub)">🎓 Software Engineering Student | Exploring Data | Machine Learning | Artificial Intelligence</text>
 
-    <!-- Cursor -->
-    <rect x="820" y="6" width="6" height="30" fill="#0f172a">
+    <!-- Cursor for title -->
+    <rect x="880" y="6" width="8" height="34" fill="#0f172a">
       <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
