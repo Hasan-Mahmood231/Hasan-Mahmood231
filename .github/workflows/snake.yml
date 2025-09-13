@@ -1,9 +1,12 @@
 name: Generate Snake
 
 on:
-  schedule: # every 12 hours
+  schedule: # Run every 12 hours
     - cron: "0 */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch: # Allow manual runs
+  push: # Also run when you push to main
+    branches:
+      - main
 
 jobs:
   build:
@@ -12,7 +15,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@master
         with:
-          github_user_name: Hs30   # <-- put your username here
+          github_user_name: Hs30   # <-- your username
           outputs: dist/snake.svg
 
       - name: Push to GitHub
