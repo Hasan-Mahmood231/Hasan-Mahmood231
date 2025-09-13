@@ -15,7 +15,10 @@
 Hi, I’m Hassan Mahmood
 
 
-I’m passionate about using data, algorithms, and AI to uncover insights and build intelligent solutions. My journey is focused on strengthening fundamentals in Python, Data Analysis, and Machine Learning, while continuously improving through practice and real-world projects.
+I’m passionate about using data, algorithms, and AI to uncover insights and build intelligent solutions. My journey is focused on strengthening fundamentals in Python, Data Analysis, and Machine Learning, while
+continuously improving through practice and real-world projects.<br>
+<br>
+I focus on presenting complex concepts in a way that is clear, logical, and easy to understand, making both learning and application more effective. I value collaboration and knowledge-sharing, as meaningful progress often comes from working and learning together. With a mindset of continuous growth, I treat challenges as opportunities to strengthen my problem-solving skills and develop solutions that are intelligent, practical, and impactful.
 
 What I Do
 
