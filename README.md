@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hs30/Hs30/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Hasan-Mahmood231/Hasan-Mahmood231/output/snake.svg?palette=github-dark" alt="GitHub Snake Animation" />
 </p>
 
 
