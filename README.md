@@ -30,12 +30,7 @@ What I Do
 🔹 Apply statistics, algorithms, and data visualization to solve problems<br>
 🔹 Experiment with machine learning models to understand how AI learns from data
 
- 🔧 Skills  
-- 🖥️ C++  
-- 🐍 Python
-- 📜 JavaScript 
-- 📊 Statistics
-- 🗣️ Communication
+
 - 🔗 My Social Media Profiles: [Click Here](https://linktr.ee/Hs30)
 
  ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  
