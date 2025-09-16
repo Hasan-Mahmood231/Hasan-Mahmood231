@@ -46,6 +46,11 @@ What I Do
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)  
 ![Communication](https://img.shields.io/badge/Communication-00bfa5?style=flat&logo=googlechat&logoColor=white)  
 
+
+
+## 📊 My LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Hassan-Mahmood_123?theme=dark&font=Dancing_Script&ext=heatmap&ext=contest)
+
 <!---
 Hasan-Mahmood231/Hasan-Mahmood231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
