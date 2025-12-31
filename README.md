@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=34&duration=3000&pause=1000&color=008B8B&center=true&vCenter=true&width=900&lines=Hello%2C+I'm+Hassan+Mahmood;🎓+Software+Engineering+Student;🔍+Exploring+Data;🤖+Machine+Learning;🧠+Artificial+Intelligence" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hasan-Mahmood231&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hasan-Mahmood231&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!--
@@ -12,8 +11,6 @@
   <img src="https://raw.githubusercontent.com/Hasan-Mahmood231/Hasan-Mahmood231/output/snake.svg?palette=github-dark" alt="GitHub Snake Animation" />
 </p>
 -->
-
-
 
 Hi, I’m Hassan Mahmood
 
