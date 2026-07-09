@@ -12,20 +12,23 @@
 </p>
 -->
 
-Hi, I’m Hassan Mahmood
+# Hi, I'm Hassan Mahmood 👋
 
+I am a Software Engineering student driven by a single mission: engineering intelligent, practical solutions to real-world problems. 
 
-I’m passionate about using data, algorithms, and AI to uncover insights and build intelligent solutions. My journey is focused on strengthening fundamentals in Python, Data Analysis, and Machine Learning, while
-continuously improving through practice and real-world projects.<br>
-<br>
-I focus on presenting complex concepts in a way that is clear, logical, and easy to understand, making both learning and application more effective. I value collaboration and knowledge-sharing, as meaningful progress often comes from working and learning together. With a mindset of continuous growth, I treat challenges as opportunities to strengthen my problem-solving skills and develop solutions that are intelligent, practical, and impactful.
+My journey began with mastering the core pillars of Python, and Machine Learning. Today, I actively bridge the gap between traditional data analytics and the frontier of **Generative AI**. By combining robust statistical foundations with cutting-edge tools like **LangChain** and **Ollama**, I architect local **Retrieval-Augmented Generation (RAG)** pipelines and autonomous **Agentic AI** workflows. 
 
-What I Do
+I focus on writing clean, highly logical, and open-source code—transforming complex data and advanced LLMs into impactful, human-centric solutions.
 
-🔹 Explore Data Science & Artificial Intelligence concepts step by step<br>
-🔹 Build and share clean, well-documented projects for learning & collaboration<br>
-🔹 Apply statistics, algorithms, and data visualization to solve problems<br>
-🔹 Experiment with machine learning models to understand how AI learns from data
+---
+
+### 🛠️ The Toolkit & Ecosystem
+
+* **AI & Engineering:** Generative AI, Local LLMs, RAG Pipelines, Agentic AI, LangChain, Ollama
+* **Data Science & ML:** Python, SQL, Scikit-Learn, Pandas, NumPy, Matplotlib
+* **Core & Workflow:** C++, Git/GitHub, Vector Databases
+
+*"Turning complex data into intelligent action, one commit at a time."*
 
 
 - 🔗 My Social Media Profiles: [Click Here](https://linktr.ee/Hs30)
