@@ -33,19 +33,44 @@ I focus on writing clean, highly logical, and open-source code—transforming co
 
 - 🔗 My Social Media Profiles: [Click Here](https://linktr.ee/Hs30)
 
- ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-f7e018?style=flat&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952b3?style=flat&logo=bootstrap&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)  
-![Data Science](https://img.shields.io/badge/Data_Science-4B8BBE?style=flat&logo=databricks&logoColor=white)  
-![Statistics](https://img.shields.io/badge/Statistics-2E8B57?style=flat&logo=apachespark&logoColor=white)  
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-ff9800?style=flat&logo=leetcode&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github&logoColor=white)  
-![Communication](https://img.shields.io/badge/Communication-00bfa5?style=flat&logo=googlechat&logoColor=white)  
 
+
+## 🚀 Core Tech Stack & Expertise
+
+### 🧠 Artificial Intelligence & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic_AI-FF5722?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-00BCD4?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gen_AI-9C27B0?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-3F51B5?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### 🛠️ Languages & Frameworks
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🛠️ Tools, Platforms & Foundations
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-4B8BBE?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-2E8B57?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-FF9800?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+---
 
 
 ## 📊 My LeetCode Stats
